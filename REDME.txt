@@ -1,0 +1,42 @@
+Fluid Shape Cloud 3.5
+
+Una herramienta avanzada de análisis de perfiles geométricos diseñada para el cálculo preciso de propiedades hidráulicas y físicas en fluidos.
+
+🚀 Características
+
+Diseño Paramétrico: Ajuste dinámico de dimensiones (A, B, C, D, E).
+
+Cálculos en Tiempo Real: Cálculo instantáneo de área de sección, radio hidráulico, volumen y masa.
+
+Sincronización Cloud: Guardado y recuperación de perfiles mediante Firebase Firestore.
+
+Visualización Técnica: Gráfico SVG dinámico con cotas normalizadas y visualización de centroide.
+
+🛠️ Tecnologías utilizadas
+
+React.js: Biblioteca principal para la interfaz de usuario.
+
+Tailwind CSS: Estilizado moderno y responsivo.
+
+Firebase: Autenticación anónima y base de datos NoSQL (Firestore).
+
+Lucide React: Set de iconos vectoriales.
+
+📦 Instalación y Despliegue
+
+Este archivo es un componente de React. Para ejecutarlo localmente:
+
+Clona el repositorio.
+
+Asegúrate de tener instalado Node.js.
+
+Instala las dependencias necesarias:
+
+npm install lucide-react firebase
+
+
+Integra el archivo fluid_analysis_app.jsx en tu estructura de src/App.jsx.
+
+📄 Licencia
+
+Este proyecto está bajo la Licencia MIT.
